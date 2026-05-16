@@ -30,18 +30,6 @@ The project demonstrates:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-.
-├── app.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── notebooks/
-├── src/
-└── README.md
-```
 
 ---
 
